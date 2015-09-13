@@ -1,0 +1,6 @@
+markdown: redcarpet
+permalink: /:year/:month/:title/
+url: http://tolegalize.github.io
+author: 张静
+highlighter: pygments
+
