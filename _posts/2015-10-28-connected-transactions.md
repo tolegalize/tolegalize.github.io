@@ -8,37 +8,29 @@ tags: [法律]
 
 # 专栏
 
-- 来自天达共和律所的两位同行表示：
+来自天达共和律所的两位同行表示：
 
 >实际上，由于关联交易不仅直接关系和影响着挂牌公司的利润和价值，
 >而且往往与公司治理机制、公司的规范运行、独立性等监管要求直接关联
 
 对于关联交易和同业竞争是从**新三板的认定**和**监管部门要求**入手，全文链接见[这里](/upload/file/NewThirdBoard.pdf)
 
-- IPO同业竞争、关联交易问题[如何处理](http://www.leadpe.com/capital/info/577)
+IPO同业竞争、关联交易问题[如何处理](http://www.leadpe.com/capital/info/577)
 
-- [旭日律师的博客](http://blog.sina.com.cn/s/articlelist_2041624672_13_1.html)
+[旭日律师的博客](http://blog.sina.com.cn/s/articlelist_2041624672_13_1.html)，他的博客内容很多，可以多读读
 
-	1. 关联方、关联交易学习
-	2. 关于关联方的定义
-	3. 知识点总结6——独立性问题
-	4. 同业竞争解决之
-
-他的博客内容很多，可以多读读
-
-- 感悟新三板：任何理解同业竞争和关联交易[的标准](http://www.bscapital.cn/zhishi/Info262.html)
-
+感悟新三板：任何理解同业竞争和关联交易[的标准](http://www.bscapital.cn/zhishi/Info262.html)
 
 
 # 解释及文件
 
-知乎的[止水专栏](http://zhuanlan.zhihu.com/stillwater/19894722)，感觉他所有文章都应该读读
+- 知乎的[止水专栏](http://zhuanlan.zhihu.com/stillwater/19894722)，感觉他所有文章都应该读读
 
-百度百科[解释](http://baike.baidu.com/view/1009538.htm)
+- 百度百科[解释](http://baike.baidu.com/view/1009538.htm)
 
-MBA智库[解释](http://wiki.mbalib.com/wiki/同业竞争)
+- MBA智库[解释](http://wiki.mbalib.com/wiki/同业竞争)
 
-关联交易及同业竞争尽职调查[工作底稿](http://xsblawyer.com/tyjz/ShowArticle.asp?ArticleID=280)
+- 关联交易及同业竞争尽职调查[工作底稿](http://xsblawyer.com/tyjz/ShowArticle.asp?ArticleID=280)
 
 # 新闻
 
