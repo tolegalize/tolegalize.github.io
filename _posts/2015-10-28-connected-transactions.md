@@ -48,3 +48,10 @@ MBA智库[解释](http://wiki.mbalib.com/wiki/同业竞争)
 
 
 *ST盛润借壳方规避同业竞争和关联交易[专题频道](http://topic.eastmoney.com/stsr/)
+
+
+21家上市公司落子新三板：[同业竞争关联交易成挂牌阻碍](http://pe.pedaily.cn/201409/20140923371448.shtml)
+
+# 终极大招
+
+内部资料，[见这里](/upload/file/summary.doc)
